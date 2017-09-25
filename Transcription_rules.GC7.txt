@@ -1,0 +1,408 @@
+’ = - = ’
+’d = AH0 D|IH0 D = ’δ
+’ll = AH0 L = ’λ
+’s = IH Z|EH1 S|IH0 Z = ’σ
+’s = Z = ’σ
+’v = AH0 V = ’ϝ
+a = AO1|AO0|AA1|AA0 = ο
+a = IH0 = ι
+a = IY1 = ι
+a = EY1|EY2|EY = ει
+a = EH1|EH2 = ε
+a = AE1|AE = α
+a = AE0|AO|AA|AX|IH = α
+a = AH0 = α
+ae|æ = IY1|IY = η
+ae|æ = AE1 = α
+ael = L = ελ
+aer = EH1 R|EH2 R|EA R = ειρ
+aer|ær = AA1 R = αρ
+age = IH0 JH = αϫ
+ai = AH0 = ε
+ai = - = ε
+ai|ay = IH0|IY0 = ι
+ai|ay = IY1 = η
+ai|ay = EY1|EY2|EY = ει
+ai|ay = AY1|AY2 = αι
+air|aire|ayr = EH1 R|EA R = ερ
+al = AO1 L|AA1 L1 = ολ
+al = AO0 L = ολ
+al = L|AX L|AH0 L = αλ
+alb = AO0 L B = ολβ
+alk = AO2 K|AO1 K = όκ
+all = AO1 L|AA1 L|AO2 L = ολ
+all = AH0 L = αλ
+allu = AH0 L UW2|AH0 L UW1 = αλῳ
+alm = AA1 M = αλμ
+ao = AO1 = αο
+ar = EH1 R|EH2 R|EA R = ερ
+ar = AA1 R|ER0|R|EH0 R = αρ
+are = EH1 R|EH2 R|EA R|EA = ερ
+are = AA1 R|AE1 R|ER0|R|EH0 R = αρ
+aren = EH1 R AH0 N = ερεν
+ari|ary = ER0 R IY0|EH2 R IY0 = αρι
+arr = AO1 R = ορ
+arr = EH1 R = ερ
+arr = AE1 R = αρ
+arr = AA1 R = αρ
+arr = ER0 = αρ
+au = OW = ου
+au|aw = AO1|AO2|AH1|AA1 = ό
+au|aw = AW1|AW = αυ
+aur|awr = ER0 = ορ
+b = B = β
+b = - = -
+bb = B = β
+\bbe = B IY2 = βε
+bre = B ER0 = βερ
+burgh = B ER0 OW0 = βωρο
+c = SH = ϣ
+c = CH = ϭ
+c = S = ϡ
+c = K = κ
+call = K L = κλ
+cc = K S = κϡ
+cc = K = κ
+ch = SH = ϣ
+ch = JH = ϫ
+ch = CH = ϭ
+ch = K = κ
+chew = CH UW1 = ϭῳ
+cia = SH AH0 = ϣα
+cie = SH AH0 = ϣε
+cie = CH AH0 = ϭε
+cious = SH AH0 S = ϣοσ
+ciu = SH AH0 = ϣȣ
+ck = K = κ
+cqu = K W = κϥ
+ct = T = κτ
+cts = K S = κτσ
+d = JH = ϫ
+d = T = τ
+d = D = δ
+d = - = -
+dal = D L = δαλ
+dar = D R = δρ
+dd = D = δ
+du = JH UW0 = ϫȣ
+du = D UW2|D UW1 = δῳ
+e = IH1 = ι
+e = IY1|IY2|IY = η
+e = EY1|EY2|EY = ει
+e = EH1|AH0|IH0|EH2|AX|EH|IY0 = ε
+e = IH = ε
+e = EY0 = ε
+e = - = -
+e\b = EY2 = ε
+e’s = IH0 Z|IH Z = ’σ
+ea = Y AH0 = ια
+ea = IH1 = ι
+ea = IY1 R|IA1|IY AX = ηα
+ea = IY1|IY = η
+ea = EY1 = ει
+ea = IY0 EY1 = εει
+ea = EH1|EH = ε
+ean = IY1 AH0 N = ηαν
+ear = ER1 = υρ
+ear = IY1 R|IH2 R|IA = ιρ
+ear = IA R = ιρ
+ear = AH0 = ερ
+ear = EH1 R = ερ
+eau = Y UW1 = ῳ
+ee = IY1|IY|IH1 = η
+eer = IY1 R|IH1 R|IA = ιρ
+ei = IH1 = ι
+ei = IY1 IH0 = ηι
+ei = IY1 = η
+ei = EY1 = ει
+ei = AY1 = αι
+eigh = EY1 = ει
+eigh = AY1 = αι
+eign = AH0 N = εν
+eir = IY1 R|IA = ιρ
+el = AX L = ελ
+eo = IH1 = ι
+eo = IY1|IY = η
+eo = IY0 OW0 = εο
+eo = EH1 = ε
+eo = AH0 = ε
+eo = AW1 = αυ
+eous = IY0 AH0 S = εοσ
+er = ER1|ER2 = υρ
+er = ER = ερ
+er = ER0|AH0|AX = ερ
+er = ER0 R = ερ
+er = AA1 R|AA1 = αρ
+ere = IY1 R|IA1 = ιρ
+err = ER1|ER2|ER = υρρ
+err = EH1 R = ερ
+eu|ew = Y UH1 = ῳ
+eu|ew = Y UW1|Y UW = ῳ
+eur = Y UA R = ιωρ
+ewe = Y UW1 = ῳ
+ewer = OW1 R|OW1 AH0 = ουερ
+ewer = Y UH R|Y UA1 = ῳερ
+ey = IH1 = ι
+ey = IY1 = η
+ey = EY1 = ει
+f = F = φ
+f = V = ϝ
+ff = F = φ
+fort = F T = φορτ
+ful = F AH0 L|F AX L = φȣλ
+fully = F AH0 L IY0 = φȣλλι
+g = JH = ϫ
+g = ZH = ϫ́
+g = G = γ
+geo = JH AH0 = ϫο
+gg = JH = ϫ
+gg = ZH = ϫ́
+gg = G = γ
+gh = F = φ
+gh = G HH = γ῾
+gh = - = -
+gm = M = γμ
+\bgn = N = γν
+gno = N Y AA0 = νιο
+guer = G ER0 = γερ
+h = HH = ῾
+h = - = -
+i = IH1|IH2|IH|AH0|IY0|IY|Y IH1|AX = ι
+i = IY1 = η
+i = AY1|AY = αι
+i = - = -
+ia = IA = ια
+ia = Y AH0 = ια
+ia = AY1 AH0|AY1 AE0 = αια
+ia = AY1 = αι
+iaer = AY IA R = αιαερ
+iage = IH0 JH = ιαϫ
+iar = Y ER0 = ιαρ
+iar = AY1 ER|AY1 AH0 = αιαρ
+ie = IY0 AH0|Y AH0 = ιε
+ie = IH1 = ι
+ie = IY1 = η
+ie = AH0 = ε
+ie = AY1 AH0 = αιε
+ier = AY1 ER|AY1 AH0 = αιερ
+ier = IY1 R|IA = ιρ
+ier = IY0 ER0|IA R = ιερ
+ieu = UW0 = ῳ
+iew = Y UW2 = ῳ
+igh = IH1 G HH = ιγ῾
+igh = AY1 = αι
+ign = AY1 N = αιν
+ing = IH0 N = ινγ
+io = AH0|IH0 = ο
+io = - = ο
+io = Y AH0|IA = ιο
+io = AY1 AH0 = αιο
+ior = Y ER0|IY0 ER0 = ιορ
+iou = IY0 AH0 = ιο
+ious = AH0 S = οσ
+ir = ER = υρ
+ir = IA = ιρ
+ir = ER0 = ερ
+ir = AY1 ER0 = αιρ
+ir = AY1 ER0 R = αιρ
+ire = IY1 R|IA1 = ιρ
+irr = ER1|ER = υρ
+irr = IH1 R = ιρ
+iu = IY0 AH0|IA|AH0 = ῳ
+j = JH = ϫ
+ju = JH UW0 = ϫȣ
+k = K = κ
+kn = N = κν
+knew = N UW1 = κνῳ
+l = L = λ
+l = AH0 L|AX L = λ
+l = - = -
+le = AH0 L = ελ
+leu|lew = L UW0 = λῳ
+leu|lew = L UW1 = λῳ
+ll = L = λ
+llu = L UW0 = λῳ
+llu = L UW2|L UW1 = λῳ
+lu = L UW0 = λῳ
+lu = L UW2|L UW1 = λῳ
+m = M = μ
+mc = M AH0 K = μακ
+mm = M = μ
+mn = M = μ
+mpb = M B = μπβ
+n = N|NG|AH0 N = ν
+neu|new = N UW0 = νῳ
+neu|new = N UW1 = νῳ
+ng = NG = νγ
+ngth = NG K TH = νγθ
+nm = M = νμ
+nn = N = ν
+nu = N UW2|N UW1 = νῳ
+o = UH = ȣ
+o = AH1|AH = υ
+o = UW1|UW = ω
+o = OW1|OW2|OW = ου
+o = AH0|AA1|AA2|AA0|OW0|AX|OH|IH0 = ο
+o = AO1|AO2|AO0 = ο
+o = IH = ι
+o\b = OW2 = ο
+oa = AO1|AO2 = ό
+oa = OW1|OW = ου
+oar = AO1 R|AH0 R|ER0 = ορ
+oe|œ = IY1 = η
+oi|eoi = W AH0|W AA1 = ϥα
+oi|oy = OY = οι
+oid = OY D = οιδ
+old|ould = OW1 L D = ολδ
+on = N = ον
+one = W AH0 N|W AH2 N|W AH1 N = ϥυν
+oo = UH1|UH2|UH = ȣ
+oo = AH = υ
+oo = UW1|UW = ω
+oo = OW = ου
+oo = W AA1|W AA2 = οο
+oor|oore = UW1 R|UA = ωρ
+oor|oore = AO1 R|AO2 R|AO = ορ
+or = ER|ER1 = υρ
+or = AO1 R|AO2 R|ER0|AH0|AO0 R|AO = ορ
+or = ER0 R = ορ
+or = AH = ορ
+or = R = ορ
+ore = AO1 R|AO1 = ορ
+oreign = AO1 R AH0 N = ορεν
+orr = ER|ER1 = υρρ
+orr = AA1 R|AO1 R = ορ
+ou = UH1|UH2|UH = υ
+ou = AH0 = υ
+ou = AH1 = υ
+ou = UW1|UW = ω
+ou = OW1 = ου
+ou = AW1|AW = αυ
+ough = AA1|AO1|AO = ό
+ough = AH1 F = υφ
+ough = AO1 HH = ο῾
+ough = AW1 = αυ
+our = UA R = ωρ
+our = AO1 ER0|ER0|AH0|AO1 R|ER = ορ
+our = ER1 = ερ
+our = AW1 ER0|AW1 AH0 R = αυρ
+ous\b = AH0 S|IH0 S = οσ
+ously\b = AH0 S L IY0|IH0 S L IY0 = οσλι
+ow = AO1 = ό
+ow = OW1|OW0 = ου
+ow = AW1|AW2|AW = αυ
+ower = OW1 ER0 = ουερ
+ower = AW1 ER0 = αυερ
+p = P = π
+p = - = -
+ph = F = φ
+ph = P HH = π῾
+por = P R = πορ
+pp = P = π
+pple|ple = P L = πελ
+\bps = S = πσ
+q = K = κ
+qu = K W = κϥ
+qu = K = κ
+qua = K W AA1|K W OH = κϥο
+r = R = ρ
+r = ER0|AX R = ρ
+r = - = ρ
+\brea = R IY2 AH0 = ρεα
+reu|rew|ru = R UW2|R UW1|R UW = ρῳ
+ru = R UW0 = ρῳ
+s = SH = ϣ
+s = S = σ
+s = Z = ζ
+s = ZH = ϫ́
+s = - = -
+sc = S = σϡ
+sew = S UW1 = σῳ
+sh = SH = ϣ
+sh = S HH = σ῾
+sm = Z AH0 M|Z AX M = ζμ
+some = S AH1 M|S AH0 M = συμ
+ss = SH = ϣ
+ss = S = σ
+ss = Z = ζ
+ssu = SH UW0 = ϣȣ
+su = S UW0 = σῳ
+su|sui = S UW1|S UW2 = σῳ
+super = S UW1 P ER0|S UW2 P ER0|S UW0 P ER0 = σῳπερ
+t = SH = ϣ
+t = CH = ϭ
+t = T = τ
+t = ZH = ϫ́
+t = - = -
+tch = CH = ϭ
+teur = CH ER2 = ϭυρ
+tew = T UW1 = τῳ
+th = TH = θ
+th = T HH = τ῾
+th = DH = ϯ
+thm = DH AH0 M = ϯεμ
+tia = SH AH0 = ϣα
+tie = SH AH0 = ϣε
+tious = SH AH0 S = ϣοσ
+tre = T ER0 = τερ
+ts = T S = τσ
+tt = T = τ
+tu = CH UW0|CH AH0 = ϭȣ
+tu = CH UW2 = ϭω
+tu = T UW0 = τῳ
+tu = T UW2|T UW1 = τῳ
+tz = T S = τσ
+u = UH1|UH2|UH = υ
+u = AH0|AX|IH0 = υ
+u = W = ϥ
+u = AH1|AH2 = υ
+u = AH = υ
+u = UW1 = ω
+u = Y UW0|Y AH0|Y UH = ῳ
+u = Y AH0 W = ῳ
+u = Y UW1|Y UW2|Y UW = ῳ
+u = IH1 = ι
+u = EH1 = ε
+u = - = -
+ua = AH0 W AH0|UW2 AH0 = ϥα
+ua = Y AH0 = ῳα
+ue = EH1 = ε
+ue = - = -
+ui = IH1 = ι
+\bun = AH0 N = υν
+\bunu = AH0 N Y UW1 = υνῳ
+uous = Y UA S = ῳοσ
+ur = ER0 = υρ
+ur = ER1|AH0 = υρ
+ur = ER = υρ
+ur|urr = Y ER0 = ῳρ
+urr = ER0 = υρ
+urr = ER = υρρ
+urr = ER1|AH0 = υρ
+v = V = ϝ
+vor = V R = ϝορ
+w = W = ϥ
+w = V = ϝ
+w = - = -
+wa = W OH|W AA1|W AA2|W AO1|W AO = ϥο
+walk = W AO1 K = ϥόκ
+ward = W ER0 D = ϥορδ
+wh = W = ϥ̔
+wh = HH W = ϥ̔
+what = W AH1 T|W AH2 T = ϥ̔οτ
+wor = W ER1 = ϥυρ
+x = K S = ξ
+x = Z = ζ
+x = G Z = γζ
+xc = K S = κσ
+xious = K SH AH0 S = κϣοσ
+y = IH1|IY0|IY|IH0|IH|AH0 = ι
+y = Y = ι
+y = AY1|AY2|AY0|AY = αι
+yr = ER1 = υρ
+yr = ER0 = ιρ
+z = T S = τσ
+z = S|TH = σ
+z = Z = ζ
+zz = T S = τσ
+zz = Z = ζ
